@@ -10,7 +10,7 @@ fact to write a sorting algorithm that achieves better than O(n log n)?
 
 Your sorting algorithm should return an array of all the sorted scores with the 
 highest scores at the beginning of the array, with the rest of the elements in 
-descending order. Make your implemnetation general-purpose such that it can 
+descending order. Make your implementation general-purpose such that it can 
 accept a `highestPossibleScore` as a parameter, in case we need to raise the
 highest possible score of our game. 
 
